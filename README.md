@@ -1,2 +1,2 @@
-# Colinkun.blog.io
+# Colinkun.github.io
 博客
